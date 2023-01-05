@@ -5,7 +5,7 @@ To use this plugin, simply copy and paste the code into a new file and save it a
 
 To embed a GitHub repository, you can use the following shortcode on a page or post:
 
-[github url="https://github.com/USERNAME/REPO_NAME.git"]
+```[github url="https://github.com/USERNAME/REPO_NAME.git"]```
 
 ![shortcode](/shortcode.png)
 
