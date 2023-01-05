@@ -1,5 +1,5 @@
 # ghbtns.com-wordpress
-WordPress plugin that uses ghbtns.com
+WordPress plugin that uses ghbtns.com (https://github.com/mdo/github-buttons)
 
 To use this plugin, simply copy and paste the code into a new file and save it as github-embed.php in the wp-content/plugins directory of your WordPress site. Then, go to the Plugins page in the WordPress admin dashboard and activate the plugin.
 
